@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:contato.carusei@outlook.com"><img src="https://img.shields.io/badge/E--mail-contato.carusei@outlook.com-ff4fa3?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Discord-carusei-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="mailto:contato.carusei@outlook.com"><img src="https://img.shields.io/badge/Outlook-contato.carusei@outlook.com-0078D4?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yIDUuNUExLjUgMS41IDAgMCAxIDMuNSA0aDE3QTEuNSAxLjUgMCAwIDEgMjIgNS41djEzYTEuNSAxLjUgMCAwIDEtMS41IDEuNWgtMTdBMS41IDEuNSAwIDAgMSAyIDE4LjV2LTEzem0yLjIuNUwxMiAxMS43IDE5LjggNkg0LjJ6TTIwIDcuOWwtNy40IDUuNGExIDEgMCAwIDEtMS4yIDBMNCA3LjlWMThoMTZWNy45eiIvPjwvc3ZnPg%3D%3D&labelColor=151b26" /></a>
+  <img src="https://img.shields.io/badge/Discord-carusei-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=151b26" />
 </p>
 
 <p align="center">
-  <a href="https://ebaconline.com.br"><img src="https://img.shields.io/badge/EBAC-aluno-4f8cff?style=for-the-badge" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Caruseii&label=Visitas&style=for-the-badge&color=2a3444" />
+  <a href="https://ebaconline.com.br"><img src="https://img.shields.io/badge/EBAC-aluno-9b5cf6?style=for-the-badge&labelColor=151b26" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Caruseii&label=Visitas&style=for-the-badge&color=4f8cff&labelColor=151b26" />
 </p>
 
 <h2>🧑‍💻 Sobre mim</h2>
