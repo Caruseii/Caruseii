@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Caruseii - Full Stack e Design" width="100%" />
+  <img src="Assets/banner.svg" alt="Caruseii - Full Stack e Design" width="100%" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 <h2>Tecnologias</h2>
 
 <p align="center">
-  <img src="assets/stack.svg" alt="Design: Figma, Photoshop, Illustrator. Full Stack: HTML, CSS, JavaScript, TypeScript, React, Node.js, Git" width="100%" />
+  <img src="Assets/Stack.svg" alt="Design: Figma, Photoshop, Illustrator. Full Stack: HTML, CSS, JavaScript, TypeScript, React, Node.js, Git" width="100%" />
 </p>
 
 <h2>Contribuições em movimento</h2>
